@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Keith 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/keith-sutherland/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-green?style=flat-square" alt="Website Badge"/></a>
 </p>
@@ -15,14 +15,14 @@
 ### 👨‍💻 About Me:
 I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🤔 I'm looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
+- 🔭 I'm currently working on a frame data displaying app for the Virtual Fighter 5 US fighting game.
+- 🌱 I'm currently learning Javascript and MUCH backend!
+- 👯 I'm love to collaborate on database schema design, CSS design and Javascript!
+- 🤔 I'm looking for help with Javascript and APIs. Just want to understand them better~
+- 💬 Ask me about CSS and database STUFF.
 - 📫 How to reach me: [Your Email]
 - 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: 
 
 ### 🛠️ Languages and Tools:
 
