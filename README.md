@@ -20,9 +20,8 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 - 👯 I'm love to collaborate on database schema design, CSS design and Javascript!
 - 🤔 I'm looking for help with Javascript and APIs. Just want to understand them better~
 - 💬 Ask me about CSS and database STUFF.
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: 
+- 📫 How to reach me: kpsut@yahoo.com / pacneemius7@gmail.com
+- ⚡ Fun fact: Check my "Capstone" repo!!!
 
 ### 🛠️ Languages and Tools:
 
